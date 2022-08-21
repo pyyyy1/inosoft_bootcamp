@@ -1,0 +1,27 @@
+body{
+    width: 100%;
+    height: auto;
+    background: rgb(60, 60, 224);
+}
+.container{
+    width: 55%;
+    height: auto;
+    background: rgb(242, 141, 17);
+    margin:auto;
+    margin-top: 5px;
+}
+
+header{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+
+.about, .content{
+    padding-left: 20px;
+}
+
+.contact{
+    padding-left: 20px;
+    padding-bottom: 5px;
+}
